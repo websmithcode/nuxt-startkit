@@ -24,7 +24,7 @@ const accordionItems = [
 <template>
   <main>
     <h1 class="text-3xl text-white font-bold mb-3">
-      Hello world!
+      Demo
     </h1>
     <AccordionRoot class="bg-mauve6 w-[300px] rounded-md shadow-[0_2px_10px] shadow-black/5" default-value="item-1"
       type="single" :collapsible="true">
